@@ -13,9 +13,10 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84B?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
-
+</p>
 <br>
-  <h2> 📝 Services I Use 📝</h2>
+<h2> 📝 Services I Use 📝</h2>
+<p align="left">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=Railway">
 <img src="https://img.shields.io/badge/replit-667881?style=flat-square&logo=replit&logoColor=white">
