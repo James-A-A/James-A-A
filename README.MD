@@ -2,7 +2,7 @@
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=James-A-A&theme=dark&show_icons=true&icon_color=ffffff"/>
 <p>
  <h2>🚀 Some Tools I Use</h2>
- <p align="left">
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white">
@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84B?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
-</p>
-<p align="left">
+
 <br>
   <h2> 📝 Services I Use 📝</h2>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
